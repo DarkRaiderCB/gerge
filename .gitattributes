@@ -1,0 +1,2 @@
+Re-PolyVore/** filter=lfs diff=lfs merge=lfs -text
+Re-PolyVore/**/** filter=lfs diff=lfs merge=lfs -text

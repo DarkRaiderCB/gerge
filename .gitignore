@@ -3,6 +3,4 @@ __pycache__/
 *.pyo
 *.pyd
 *.pickle
-polyvore_features.pkl
-Re-PolyVore/
 .env

@@ -178,7 +178,7 @@ if uploaded_file is not None:
             target_categories = st.multiselect(
                 "🎯 Select target categories for recommendations:",
                 options=classes,
-                default=['pants', 'shoes'],
+                default=['pants', 'dress'],
                 help="Choose one or more categories to get compatible items."
             )
 
